@@ -19,15 +19,15 @@ This project has two parts. First part is scraping news from 'https://redplanets
 
 ##### Stroing data in MongoDB:  
 
-![alt text]https://github.com/LynHJ/web-scraping-challenge/blob/610da38d6720db9089b716a7892c5c7aaf301219/Mission_to_Mars/OputData/MongoDB.png)  
+![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/610da38d6720db9089b716a7892c5c7aaf301219/Mission_to_Mars/OputData/MongoDB.png)  
 
 ## Part 2: Scrape and Analyse Mars Weather Data
 
-![alt text]()  
+![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/67501cec27df0cd71aff8ec3f64b20ee4d443978/Mission_to_Mars/OputData/AveTempByMonth.png)  
 ##### Summary:  
 ![alt text]()  
 ##### Summary:  
-![alt text]()  
+![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/67501cec27df0cd71aff8ec3f64b20ee4d443978/Mission_to_Mars/OputData/DailyTemp.png)  
 ##### Summary:  
  
 ---
