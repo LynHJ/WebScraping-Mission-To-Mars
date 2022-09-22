@@ -13,7 +13,7 @@ This project has two parts. First part is scraping news from 'https://redplanets
 2. https://data-class-mars-challenge.s3.amazonaws.com/Mars/index.html   
 ![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/2177e6d85f8130523f4f55cf02a6f30c9f0ed65d/Mission_to_Mars/OputData/redplanetscience.png)  
 
----
+
 
 ### Part  1: Scrape Mars News  
 
@@ -24,13 +24,17 @@ This project has two parts. First part is scraping news from 'https://redplanets
 ## Part 2: Scrape and Analyse Mars Weather Data
 
 ![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/8001c5f194f82ba1cb59d4e41ba9c0b1f25b50c7/Mission_to_Mars/OputData/AveTempByMonth.png)  
-##### Summary:  
-![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/ade26ca6b0bdebde7e128a4806ffd0e37c2b907d/Mission_to_Mars/OputData/AvePresByMonth.png)  
-##### Summary:  
+##### Summary:
+According to the bar chart above,overall, the weather on Mars is quite cold. The coldest month on Mars is month 3 with temperature -83.31°C, while the warmest month on Mars is month 8 with temperature -68.38°C. How to build up a habitable environment in that temperature zone is the first task for human beings.
+
+ 
+![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/bed5c08b58450f833194618e93e4ef03977211e6/Mission_to_Mars/OputData/AvePressByMonth.png)  
+##### Summary: 
+According to the bar chart above,the atmospheric pressure on Mars is from 750 units to 910 units.
 ![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/67501cec27df0cd71aff8ec3f64b20ee4d443978/Mission_to_Mars/OputData/DailyTemp.png)  
 ##### Summary:  
  
----
+
 
 ## Content:
 ```
