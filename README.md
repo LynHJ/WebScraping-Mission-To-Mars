@@ -23,7 +23,7 @@ This project has two parts. First part is scraping news from 'https://redplanets
 
 ## Part 2: Scrape and Analyse Mars Weather Data
 
-![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/67501cec27df0cd71aff8ec3f64b20ee4d443978/Mission_to_Mars/OputData/AveTempByMonth.png)  
+![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/8001c5f194f82ba1cb59d4e41ba9c0b1f25b50c7/Mission_to_Mars/OputData/AveTempByMonth.png)  
 ##### Summary:  
 ![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/ade26ca6b0bdebde7e128a4806ffd0e37c2b907d/Mission_to_Mars/OputData/AvePresByMonth.png)  
 ##### Summary:  
