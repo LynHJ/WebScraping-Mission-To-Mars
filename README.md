@@ -25,7 +25,7 @@ This project has two parts. First part is scraping news from 'https://redplanets
 
 ![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/67501cec27df0cd71aff8ec3f64b20ee4d443978/Mission_to_Mars/OputData/AveTempByMonth.png)  
 ##### Summary:  
-![alt text]()  
+![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/ade26ca6b0bdebde7e128a4806ffd0e37c2b907d/Mission_to_Mars/OputData/AvePresByMonth.png)  
 ##### Summary:  
 ![alt text](https://github.com/LynHJ/web-scraping-challenge/blob/67501cec27df0cd71aff8ec3f64b20ee4d443978/Mission_to_Mars/OputData/DailyTemp.png)  
 ##### Summary:  
